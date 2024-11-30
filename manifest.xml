@@ -10,7 +10,7 @@
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://aamirhusnain.github.io/utm-manager/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://aamirhusnain.github.io/utm-manager/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://www.contoso.com/"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
   </AppDomains>
